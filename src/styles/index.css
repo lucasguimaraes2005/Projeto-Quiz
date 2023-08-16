@@ -33,12 +33,3 @@ main {
     flex-direction: column;
     gap: 1rem;
 }
-
-    .section__buttons {
-      padding: 10px;
-      background-color: #FFA1D6;
-      border: 2px solid #F01A1E;
-      border-radius: 4px;
-      font-size: 1rem;
-      color: #540699;
-    }
